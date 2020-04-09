@@ -1,1 +1,1 @@
-# HTML-CSS-GoogleReplicate
+I am following the curriculum of the <a href="http://www.theodinproject.com/courses/web-development-101/lessons/html-css" rel="nofollow">Odin Project</a>. The goal of this project is to recreate a google homepage only using HTML and CSS.
